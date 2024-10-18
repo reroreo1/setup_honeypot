@@ -2,7 +2,7 @@
 
 # Update and upgrade the system
 sudo apt-get update -y
-sudo apt-get upgrade -y
+#sudo apt-get upgrade -y
 
 # Install Python3 and pip
 sudo apt-get install python3 python3-pip -y
